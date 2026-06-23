@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
-<p align="center"> <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="480" height="268" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/bear-hello-waving-IThjAlJnD9WNO/giphy.gif" width="480" height="268" /> </p>
 
 ---
 ### :man_technologist: &nbsp;About Me :
