@@ -5,7 +5,7 @@
 
 ---
 ### :man_technologist: &nbsp;About Me :
-Hi, this mine private github account which I'm experimenting, forking repositories for learning purpose.
+Hi, this is mine private github account which I'm experimenting, forking repositories for learning purpose.
 Right now mine main account is [maciejmatusz](https://github.com/maciejmatusz)
 
 
